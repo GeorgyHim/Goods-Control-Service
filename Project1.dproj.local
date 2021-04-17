@@ -1,0 +1,56 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<BorlandProject>
+	<Transactions>
+    <Transaction>1899.12.30 00:00:00.000.114,C:\Химшиашвили\Учеба\Дельфи\Семинар\Project1.dproj=C:\Users\Георгий\Documents\Embarcadero\Studio\Projects\Project1.dproj</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.858,C:\Users\Георгий\Documents\Embarcadero\Studio\Projects\Main.dfm=C:\Users\Георгий\Documents\Embarcadero\Studio\Projects\Unit2.dfm</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.858,C:\Users\Георгий\Documents\Embarcadero\Studio\Projects\Main.pas=C:\Users\Георгий\Documents\Embarcadero\Studio\Projects\Unit2.pas</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.816,=C:\Users\Георгий\Documents\Embarcadero\Studio\Projects\Unit1.pas</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.438,=C:\Users\Георгий\Documents\Embarcadero\Studio\Projects\Unit1.pas</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.625,C:\Химшиашвили\Учеба\Дельфи\Семинар\Unit2.dfm=C:\Химшиашвили\Учеба\Дельфи\Семинар\ClientsList.dfm</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.892,C:\Химшиашвили\Учеба\Дельфи\Семинар\Unit1.dfm=C:\Химшиашвили\Учеба\Дельфи\Семинар\OrderingGoods.dfm</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.204,C:\Химшиашвили\Учеба\Дельфи\Семинар\Unit1.dfm=C:\Users\Георгий\Documents\Embarcadero\Studio\Projects\Unit1.dfm</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.743,C:\Химшиашвили\Учеба\Дельфи\Семинар\Unit1.dfm=C:\Химшиашвили\Учеба\Дельфи\Семинар\Report.dfm</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.843,C:\Химшиашвили\Учеба\Дельфи\Семинар\Main.pas=C:\Users\Георгий\Documents\Embarcadero\Studio\Projects\Main.pas</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.261,C:\Химшиашвили\Учеба\Дельфи\Семинар\Main.pas=</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.574,C:\Химшиашвили\Учеба\Дельфи\Семинар\Main.pas=C:\Users\Георгий\Documents\Embarcadero\Studio\Projects\Unit2.pas</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.934,C:\Химшиашвили\Учеба\Дельфи\Семинар\NewFutura.pas=C:\Химшиашвили\Учеба\Дельфи\Семинар\Unit2.pas</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.292,C:\Химшиашвили\Учеба\Дельфи\Семинар\Graphic.pas=C:\Химшиашвили\Учеба\Дельфи\Семинар\Unit1.pas</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.780,C:\Химшиашвили\Учеба\Дельфи\Семинар\GoodAdd.dfm=C:\Химшиашвили\Учеба\Дельфи\Семинар\Unit2.dfm</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.201,C:\Химшиашвили\Учеба\Дельфи\Семинар\GoodsAdd.pas=C:\Химшиашвили\Учеба\Дельфи\Семинар\GoodAdd.pas</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.032,C:\Химшиашвили\Учеба\Дельфи\Семинар\GoodsList.pas=C:\Химшиашвили\Учеба\Дельфи\Семинар\Unit2.pas</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.954,C:\Химшиашвили\Учеба\Дельфи\Семинар\Сoming.pas=C:\Химшиашвили\Учеба\Дельфи\Семинар\Unit1.pas</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.891,C:\Химшиашвили\Учеба\Дельфи\Семинар\ClientInfo.dfm=C:\Химшиашвили\Учеба\Дельфи\Семинар\Unit2.dfm</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.917,=C:\Users\Георгий\Documents\Embarcadero\Studio\Projects\Unit2.pas</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.954,C:\Химшиашвили\Учеба\Дельфи\Семинар\Сoming.dfm=C:\Химшиашвили\Учеба\Дельфи\Семинар\Unit1.dfm</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.891,C:\Химшиашвили\Учеба\Дельфи\Семинар\ClientInfo.pas=C:\Химшиашвили\Учеба\Дельфи\Семинар\Unit2.pas</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.198,=C:\Users\Георгий\Documents\Embarcadero\Studio\Projects\Unit2.pas</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.780,=C:\Users\Георгий\Documents\Embarcadero\Studio\Projects\Unit2.pas</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.231,=C:\Users\Георгий\Documents\Embarcadero\Studio\Projects\Unit2.pas</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.201,C:\Химшиашвили\Учеба\Дельфи\Семинар\GoodsAdd.dfm=C:\Химшиашвили\Учеба\Дельфи\Семинар\GoodAdd.dfm</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.843,C:\Химшиашвили\Учеба\Дельфи\Семинар\Main.dfm=C:\Users\Георгий\Documents\Embarcadero\Studio\Projects\Main.dfm</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.032,C:\Химшиашвили\Учеба\Дельфи\Семинар\GoodsList.dfm=C:\Химшиашвили\Учеба\Дельфи\Семинар\Unit2.dfm</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.743,C:\Химшиашвили\Учеба\Дельфи\Семинар\Unit1.pas=C:\Химшиашвили\Учеба\Дельфи\Семинар\Report.pas</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.625,C:\Химшиашвили\Учеба\Дельфи\Семинар\Unit2.pas=C:\Химшиашвили\Учеба\Дельфи\Семинар\ClientsList.pas</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.141,=C:\Химшиашвили\Учеба\Дельфи\Семинар\Unit2.pas</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.574,C:\Химшиашвили\Учеба\Дельфи\Семинар\Main.dfm=C:\Users\Георгий\Documents\Embarcadero\Studio\Projects\Unit2.dfm</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.204,C:\Химшиашвили\Учеба\Дельфи\Семинар\Unit1.pas=C:\Users\Георгий\Documents\Embarcadero\Studio\Projects\Unit1.pas</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.892,C:\Химшиашвили\Учеба\Дельфи\Семинар\Unit1.pas=C:\Химшиашвили\Учеба\Дельфи\Семинар\OrderingGoods.pas</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.645,C:\Химшиашвили\Учеба\Дельфи\Семинар\CommonElements.pas=C:\Users\Георгий\Documents\Embarcadero\Studio\Projects\CommonElements.pas</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.523,=C:\Химшиашвили\Учеба\Дельфи\Семинар\Unit1.pas</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.554,=C:\Химшиашвили\Учеба\Дельфи\Семинар\Unit1.pas</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.516,=C:\Химшиашвили\Учеба\Дельфи\Семинар\Unit1.pas</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.602,=C:\Химшиашвили\Учеба\Дельфи\Семинар\Unit2.pas</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.780,C:\Химшиашвили\Учеба\Дельфи\Семинар\GoodAdd.pas=C:\Химшиашвили\Учеба\Дельфи\Семинар\Unit2.pas</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.292,C:\Химшиашвили\Учеба\Дельфи\Семинар\Graphic.dfm=C:\Химшиашвили\Учеба\Дельфи\Семинар\Unit1.dfm</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.579,C:\Химшиашвили\Учеба\Дельфи\Семинар\ClientAdd.pas=C:\Химшиашвили\Учеба\Дельфи\Семинар\ClientInfo.pas</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.736,C:\Химшиашвили\Учеба\Дельфи (Папка с проектами в корне диска С ! )\Семинар\DataModule.dfm=C:\Химшиашвили\Учеба\Дельфи (Папка с проектами в корне диска С ! )\Семинар\Unit2.dfm</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.736,C:\Химшиашвили\Учеба\Дельфи (Папка с проектами в корне диска С ! )\Семинар\DataModule.pas=C:\Химшиашвили\Учеба\Дельфи (Папка с проектами в корне диска С ! )\Семинар\Unit2.pas</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.336,C:\Users\Георгий\Documents\Embarcadero\Studio\Projects\CommonElements.pas=C:\Users\Георгий\Documents\Embarcadero\Studio\Projects\Unit2.pas</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.604,=C:\Химшиашвили\Учеба\Дельфи\Семинар\Unit2.pas</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.360,=C:\Химшиашвили\Учеба\Дельфи\Семинар\Unit2.pas</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.353,=C:\Химшиашвили\Учеба\Дельфи\Семинар\Unit2.pas</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.579,C:\Химшиашвили\Учеба\Дельфи\Семинар\ClientAdd.dfm=C:\Химшиашвили\Учеба\Дельфи\Семинар\ClientInfo.dfm</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.934,C:\Химшиашвили\Учеба\Дельфи\Семинар\NewFutura.dfm=C:\Химшиашвили\Учеба\Дельфи\Семинар\Unit2.dfm</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.705,=C:\Химшиашвили\Учеба\Дельфи\Семинар\Unit2.pas</Transaction>
+  </Transactions>
+</BorlandProject>
